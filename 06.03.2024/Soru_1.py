@@ -1,17 +1,3 @@
-# print
-# input
-# sep, end
-# string birleştirme 
-# type
-# eval, format
-# Dosya işlemleri (flush, dosya.close)
-# match case
-# if-else
-# for, while
-# range
-# random
-
-
 # SORU 1
 # Santigrat olarak verilen sıcaklığı (C) Fahrenhayt’a (F) çeviren bir program yazınız. 
 # Yardımcı açıklama: C / 100 = (F-32) / 180
